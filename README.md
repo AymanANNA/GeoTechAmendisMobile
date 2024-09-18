@@ -14,10 +14,10 @@ This mobile application is part of the larger **GeoTechAmendis** project, design
 - **Check-in/Check-out system**: Technicians can easily log their presence in various locations during their shifts.
 - **Background location tracking**: Even when the app is not actively open, location data is collected using background services.
   
-<img src="https://github.com/AymanANNA/GeoTechAmendisMobile/blob/main/app1.jpg" />
+<img src="https://github.com/AymanANNA/GeoTechAmendisMobile/blob/main/app1.jpg" width=320 height=100 />
 
 ## Notification Screenshot 
-<img src="https://github.com/AbdulRehmanNazar/BackgroundLocation/blob/main/screenshots/Background%20Location.jpg" width=320 />
+<img src="https://github.com/AymanANNA/GeoTechAmendisMobile/blob/main/app2.jpg" width=320 />
 
 ## Permissions
 From Android 10, the option **"Allow only while using the app"** has been introduced. If this option is selected, the app will not be able to track location in the background, which may hinder the check-in/check-out functionality.
