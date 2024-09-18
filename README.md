@@ -14,7 +14,7 @@ This mobile application is part of the larger **GeoTechAmendis** project, design
 - **Check-in/Check-out system**: Technicians can easily log their presence in various locations during their shifts.
 - **Background location tracking**: Even when the app is not actively open, location data is collected using background services.
   
-<img src="https://github.com/AymanANNA/GeoTechAmendisMobile/app1.jpg" />
+<img src="https://github.com/AymanANNA/GeoTechAmendisMobile/blob/main/app1.jpg" />
 
 ## Notification Screenshot 
 <img src="https://github.com/AbdulRehmanNazar/BackgroundLocation/blob/main/screenshots/Background%20Location.jpg" width=320 />
